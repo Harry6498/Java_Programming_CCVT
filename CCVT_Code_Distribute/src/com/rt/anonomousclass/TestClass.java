@@ -19,6 +19,9 @@ public class TestClass {
 		
 		obj.print();
 		
+		temp1 obj1 = new temp1();
+		
+		obj1.print();
 	}
 
 }

@@ -8,5 +8,12 @@ public class Temp implements Greeting{
 		System.out.println("Hello World");
 	}
 	
+public class temp1 implements Greeting{
+	@override
+	public void print(){
+		System.out.println("This shows the advantage of interface"); //500052907
+	}
+}
+	
 
 }
